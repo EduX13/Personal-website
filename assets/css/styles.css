@@ -684,7 +684,6 @@ img {
   justify-content: center;
   padding: 0 1rem;
   z-index: var(--z-modal);
-  /* opacity: 0; */
   visibility: hidden;
   transition: .3s;
 }
@@ -1189,11 +1188,6 @@ img {
     text-align: initial;
   }
 
-  .about__info {
-    /*todo*/
-    justify-content: space-between;
-  }
-
   .about__buttons {
     justify-content: initial;
   }
@@ -1277,7 +1271,7 @@ img {
   }
 }
 
-/* For large devices */
+
 @media screen and (min-width: 1024px) {
 
   .header,
@@ -1325,4 +1319,5 @@ img {
   .contact__inputs {
     grid-template-columns: repeat(2, 1fr);
   }
+
 }
