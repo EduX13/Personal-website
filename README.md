@@ -1,5 +1,6 @@
 # Personal-website
-## Responsive Personal Website 
+
+![preview img](/preview.png)
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
