@@ -468,7 +468,7 @@ img {
 }
 
 .skills__title {
-  font-size: var(--h3-font-size);
+  font-size: var(--h2-font-size);
 }
 
 .skill__subtitle {
@@ -495,6 +495,10 @@ img {
 .skills__name {
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
+}
+
+.skills__img {
+  width: 2rem;
 }
 
 .skills__bar,
@@ -921,7 +925,7 @@ img {
 }
 
 .footer__title {
-  font-size: var(--h1-font-size);
+  font-size: var(--h2-font-size);
   margin-bottom: var(--mb-0-25);
 }
 
@@ -1267,7 +1271,7 @@ img {
   }
 
   .footer__copy {
-    margin-top: 4.5rem;
+    margin-top: 4rem;
   }
 }
 
